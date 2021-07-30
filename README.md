@@ -18,7 +18,3 @@ Node Python SQLite PostgreSQL Express Next js
 
 🛠 Tools Skills
 Github git VS Code Postman npm Heroku Vercel
-
-Georges' GitHub stats
-Georges' Most Used Language Stats
-Visitor count
