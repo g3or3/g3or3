@@ -1,5 +1,4 @@
 Hi there, I'm George Vinueza! 🙋‍♂️
-Here are some ideas to get you started:
 
 🔭 I’m currently working on ... Finding a new career oppurtunity and my personal projects!
 
