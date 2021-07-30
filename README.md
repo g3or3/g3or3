@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**g3or3/g3or3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Hi there, I'm George Vinueza! 🙋‍♂️
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on ... Finding a new career oppurtunity and my personal projects!
+🌱 I’m currently learning ... Django!
+👯 I’m looking to collaborate on ... Fun, Meaningful, Impactful projects
+🤔 I’m looking for help with ... leveling up everywhere!
+💬 Ask me about ... Anything!
+⚡ Fun fact: ... I love playing sports, playing guitar, and gaming
+📫 Get In Touch
+Linkedin Badge Gmail Badge
+
+🖥💻 Front End Skills
+HTML CSS JavaScript React Redux React Router Styled-Components Material-UI
+
+🔙 Back End Skills
+Node Python SQLite PostgreSQL Express Next js
+
+🛠 Tools Skills
+Github git VS Code Postman npm Heroku Vercel
+
+Georges' GitHub stats
+Georges' Most Used Language Stats
+Visitor count
