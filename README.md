@@ -19,4 +19,4 @@ Node Python SQLite PostgreSQL Express Next js
 🛠 Tools Skills
 Github git VS Code Postman npm Heroku Vercel
 
-[![Georges's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3or3)](https://github.com/anuraghazra/github-readme-stats)
+[![Georges's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3or3&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
