@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 📫 Get In Touch
 Linkedin Badge Gmail Badge
 
-🖥💻 Front End Skills
+🖥 💻 Front End Skills
 HTML CSS JavaScript React Redux React Router Styled-Components Material-UI
 
 🔙 Back End Skills
